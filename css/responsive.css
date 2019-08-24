@@ -6,7 +6,16 @@
 
 @media (min-width: 1281px) {
   
-  //CSS
+  .squere{
+    width: 40%;
+    background: burlywood;
+    margin: 5%;
+    padding-bottom: 20%;
+    float: left;
+    border-radius: 15%;
+    transition: .2s;
+    height: 200px;
+}
   
 }
 
@@ -17,7 +26,16 @@
 
 @media (min-width: 1025px) and (max-width: 1280px) {
   
-  //CSS
+  .squere{
+    width: 40%;
+    background: burlywood;
+    margin: 5%;
+    padding-bottom: 20%;
+    float: left;
+    border-radius: 15%;
+    transition: .2s;
+    height: 200px;
+}
   
 }
 
