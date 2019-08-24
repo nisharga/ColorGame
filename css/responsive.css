@@ -50,7 +50,10 @@
 
 @media (min-width: 481px) and (max-width: 767px) {
   
-  //CSS
+  .squere{
+width: 40%;
+margin : 5%;
+}
   
 }
 
@@ -61,6 +64,10 @@
 
 @media (min-width: 320px) and (max-width: 480px) {
   
-  //CSS
+  .squere{
+width: 40%;
+margin : 5%;
+}
+
   
 }
