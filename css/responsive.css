@@ -51,8 +51,14 @@
 @media (min-width: 481px) and (max-width: 767px) {
   
   .squere{
-width: 40%;
-margin : 5%;
+    width: 40%;
+    background: burlywood;
+    margin: 5%;
+    padding-bottom: 20%;
+    float: left;
+    border-radius: 15%;
+    transition: .2s;
+    height: 200px;
 }
   
 }
@@ -65,8 +71,14 @@ margin : 5%;
 @media (min-width: 320px) and (max-width: 480px) {
   
   .squere{
-width: 40%;
-margin : 5%;
+    width: 40%;
+    background: burlywood;
+    margin: 5%;
+    padding-bottom: 50%;
+    float: left;
+    border-radius: 15%;
+    transition: .2s;
+    height: 200px;
 }
 
   
